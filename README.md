@@ -10,4 +10,4 @@ desc -  This is my final project from Object Oriented Programming course at **se
 
 --------------
 
-DOCUMENTATION & MANUAL PAGE : http://www.cc.puv.fi/~e1801116/documentpage/measurement-documentation/
+DOCUMENTATION & MANUAL PAGE: http://www.cc.puv.fi/~e1801116/documentation/measurement/measurement-documentation.html
